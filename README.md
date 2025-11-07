@@ -4,7 +4,7 @@ Author: **Varshith G**
 Project Type: Module-5 Final Submission  
 Framework: Streamlit (Python)  
 Vibe: **Secure & Empowering**  
-Deployed App: [https://subsentry-varshithg.streamlit.app](https://subsentry-varshithg.streamlit.app)
+Deployed App: [https://project-k5gtgehvjdmyaclztkpogv.streamlit.app/]
 
 ---
 
@@ -40,7 +40,7 @@ streamlit run app.py
 5. Click **Deploy**
 
 Your app will be live at a URL like:  
-👉 `https://subsentry-varshithg.streamlit.app`
+👉 `https://project-k5gtgehvjdmyaclztkpogv.streamlit.app/`
 
 ---
 
